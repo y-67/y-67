@@ -15,25 +15,6 @@
 
 ###
 
-<h2 align="left">🧠 Tech Stack</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,flutter,dart,js,html,css,linux,bash,mysql,nginx,git,docker,postman" />
-</p>
-
-###
-
-<h2 align="left">⚙️ Infrastructure & Tools</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/WireGuard-%23DE001A?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-DC0015?style=for-the-badge&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/aapanel-0D6EFD?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-###
-
 <h2 align="left">Connect with me</h2>
 
 ###
