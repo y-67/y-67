@@ -11,7 +11,6 @@
 📚 I'm currently learning advanced backend architecture and open banking integrations.<br>
 💡 I enjoy experimenting with AI-based automation and security-oriented backend designs.<br>
 🎯 My goal is to create scalable and secure systems that solve real-world problems.<br>
-🌍 Based in Vilnius, Lithuania.
 </p>
 
 ###
@@ -31,7 +30,7 @@
 ###
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/aydeniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:yourmail@example.com">
